@@ -25,7 +25,15 @@
 
 ---
 
-### 💻 Developer Terminal
+### 💻 Developer Profile
 
-
-adii790@developer-machine:~$ fetch-profile --detail
+```yaml
+Developer: Aditya Kumar
+Role: Java Full Stack Developer
+Location: Bengaluru, India
+Core Architecture: 
+  - Backend: Java (OOP, Multi-threading, Collections), Spring Boot, Hibernate
+  - Frontend: React JS, JavaScript (ES6+), HTML5, CSS3, Bootstrap
+  - Database: MySQL (Optimized Queries & Normalization)
+Current Focus: Building Distributed RESTful Services & High-Concurrency Systems
+Status: Open for Software Engineering Opportunities 🚀
